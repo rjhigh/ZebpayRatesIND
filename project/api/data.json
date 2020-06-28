@@ -1,0 +1,77 @@
+[
+    {
+        "buy": "20.87",
+        "sell": "20.85",
+        "pair": "BAT-INR"
+    },
+    {
+        "buy": "17346",
+        "sell": "17201",
+        "pair": "BCH-INR"
+    },
+    {
+        "buy": "707001",
+        "sell": "707000",
+        "pair": "BTC-INR"
+    },
+    {
+        "buy": "9490",
+        "sell": "8800",
+        "pair": "BTC-USDT"
+    },
+    {
+        "buy": "187.5",
+        "sell": "187.3",
+        "pair": "EOS-INR"
+    },
+    {
+        "buy": "17580",
+        "sell": "17540",
+        "pair": "ETH-INR"
+    },
+    {
+        "buy": "249.9",
+        "sell": "215",
+        "pair": "ETH-USDT"
+    },
+    {
+        "buy": "3229.9",
+        "sell": "3191",
+        "pair": "LTC-INR",
+    },
+    {
+        "buy": "1.56",
+        "sell": "1.55",
+        "pair": "MATIC-INR"
+    },
+    {
+        "buy": "1.22",
+        "sell": "1.21",
+        "pair": "TRX-INR"
+    },
+    {
+        "buy": "1",
+        "sell": "0.99",
+        "pair": "TUSD-USDT"
+    },
+    {
+        "buy": "78.78",
+        "sell": "78.11",
+        "pair": "USDT-INR"
+    },
+    {
+        "buy": "13.85",
+        "sell": "13.76",
+        "pair": "XRP-INR",
+    },
+    {
+        "buy": "0.189607",
+        "sell": "0.146017",
+        "pair": "XRP-USDT"
+    },
+    {
+        "buy": "0.026",
+        "sell": "0.024",
+        "pair": "ETH-BTC"
+    }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "zebPayRatesIN",
+  "description": "zebpay rates india",
+  "author": {
+    "name": "Rashi J",
+    "email": "rashirjaiswal@gmail.com"
+  },
+  "devDependencies": {
+    "express": "^4.14.0",
+    "grunt": "~0.4.5",
+    "grunt-cli": "~0.1.13",
+    "grunt-contrib-clean": "^0.7.0",
+    "grunt-contrib-uglify": "~0.5.1",
+    "grunt-contrib-watch": "~0.6.1",
+    "load-grunt-config": "~0.13.1"
+  },
+  "scripts": {
+    "start": "grunt && node app.js"
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}

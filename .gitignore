@@ -212,5 +212,5 @@ _Pvt_Extensions/
 ModelManifest.xml
 
 # Custom project files
-js/build/
+# js/build/
 .DS_Store

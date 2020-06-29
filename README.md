@@ -1,7 +1,7 @@
 # ZebpayRatesIND
 Just a leisure time web-app 
 
-This web-app fetches buy and sell rates at Zebpay (Indian crypto-exchange) using https api calls.
+This web-app fetches buy and sell rates for Indian trading-pairs at Zebpay (Indian crypto-exchange) using https API calls.
 
 Tech/tool stack- JS, grunt, html, css
 
